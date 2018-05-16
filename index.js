@@ -1,7 +1,12 @@
 const app = "I don't do much."
 
-var kittens = [
+function kittens(){
+  var kittens = [
   'Milo',
   'Otis',
   'Garfield']
+  return kittens
+} 
+
+
   
