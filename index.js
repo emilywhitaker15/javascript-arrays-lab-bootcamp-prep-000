@@ -8,5 +8,7 @@ function kittens(){
   return kittens
 } 
 
-
+function destructivelyAppendKitten(name) {
+  return kittens.push(name)
+}
   
